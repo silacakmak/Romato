@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+
+# Large data files
+GPL570-55999.txt
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+temp_extract/
+temp_additional/
+
+# Output files
+*_out.txt
+check_output*.txt
